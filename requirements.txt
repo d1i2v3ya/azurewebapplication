@@ -1,0 +1,4 @@
+Flask==2.0.1
+requests==2.26.0
+azure-storage-blob==12.15.0
+azure-ai-textanalytics==5.1.0
